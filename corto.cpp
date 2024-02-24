@@ -1,5 +1,11 @@
 #include <iostream>
 #include <cmath>
+/* colaboradores :
+Hennrry Geovanny Canahui Gomez        0909-23-258
+Lester Alexander Esquivel Xepuxtian   0909-23-2662
+
+*/
+
 
 using namespace std;
 // bucle while
